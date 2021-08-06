@@ -8,4 +8,4 @@ define ell- = e- mu- ta-
 generate p p > h ell+ ell-  NP<=1 @0
 generate p p > h ell+ ell- j NP<=1 @1
 generate p p > h ell+ ell- j j NP<=1 @2
-output zh-SMEFTsim_addjets
+output zh-SMEFTsim_leptonic2j
