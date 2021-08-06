@@ -1,0 +1,11 @@
+import model SMEFTsim_U35_MwScheme_UFO
+
+# Definitions
+define ell+ = e+ mu+ ta+
+define ell- = e- mu- ta-
+
+
+generate p p > h ell+ ell- NP<=1
+add process  p p > h ell+ ell- j NP<=1
+
+output zh-SMEFTsim_leptonic1j
