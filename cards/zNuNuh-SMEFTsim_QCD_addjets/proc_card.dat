@@ -1,0 +1,12 @@
+set low_mem_multicore_nlo_generation True
+set nb_core 4
+#import model SMEFTatNLO-NLO_no4q
+import model SMEFTsim_U35_MwScheme_UFO
+
+# Definitions
+define q = g u c d s u~ c~ d~ s~
+
+generate q q > h vl vl~ NP=1 QCD=2 QED=3 
+add process q q > h vl vl~ j NP=1 QCD=2 QED=3
+add process q q > h vl vl~ j j NP=1 QCD=2 QED=3
+output zNuNuh-SMEFTsim_QCD_addjets
