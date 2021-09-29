@@ -1,0 +1,6 @@
+300-301:1 + 2.189 * chq3 + 1.045 * chw + 1.778 * chq3 * chq3 + 0.475 * chw * chw + 1.418 * chq3 * chw
+301-302:1 + 1.229 * chq3 + 0.823 * chw + 0.260 * chq3 * chq3 + 0.225 * chw * chw + 0.000 * chq1 * chq3 + 0.000 * chq3 * chu + 0.000 * chq3 * chd + 0.572 * chq3 * chw + 0.000 * chq3 * chwb
+302-303:1 + 2.007 * chq3 + 0.907 * chw + 24.053 * chq3 * chq3 + 0.341 * chw * chw + -0.000 * chq1 * chq3 + -0.000 * chq3 * chu + -0.000 * chq3 * chd + 1.059 * chq3 * chw + -0.000 * chq3 * chwb
+303-304:1 + 4.065 * chq3 + 1.000 * chw + 5.116 * chq3 * chq3 + 0.746 * chw * chw + -0.000 * chq1 * chq3 + -0.000 * chq3 * chu + -0.000 * chq3 * chd + 2.295 * chq3 * chw + -0.000 * chq3 * chwb
+304-305:1 + 3.716 * chq3 + 0.983 * chw + 5.217 * chq3 * chq3 + 0.745 * chw * chw + -0.000 * chq1 * chq3 + -0.000 * chq3 * chu + -0.000 * chq3 * chd + 2.670 * chq3 * chw + -0.000 * chq3 * chwb
+305-306:1 + 11.260 * chq3 + 1.049 * chw + 113.895 * chq3 * chq3 + 3.610 * chw * chw + -0.000 * chq1 * chq3 + -0.000 * chq3 * chu + -0.000 * chq3 * chd + -2.159 * chq3 * chw + -0.000 * chq3 * chwb
